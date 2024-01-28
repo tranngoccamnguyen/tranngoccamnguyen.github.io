@@ -1,5 +1,4 @@
-# tranngoccamnguyen.github.io
-<!DOCTYPE html>
+
 <html>
 <body>
 <h1>Tran Ngoc Cam Nguyen</h1>
